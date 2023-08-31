@@ -1,0 +1,12 @@
+/* Assignment # 36 */
+
+/* Large Shirt */
+
+function makeShirt2(size: string = "large", message: string = "I love TypeScript") {
+    console.log(`Size: ${size}, Message: ${message}`);
+}
+
+makeShirt2();
+makeShirt2("medium");
+makeShirt2("small", "Hello, TypeScript!");
+

@@ -1,0 +1,6 @@
+/* Assignment # 18 */
+
+/* Dinner Guests */
+
+const dinnerGuests5: string[] = ["Abdullah", "Wali Hayat", "Shehzad","Sana Ullah","Habib","Arsalan","Abdur Rahman"];
+console.log(`Number of people invited to dinner: ${dinnerGuests5.length}`);
